@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://avatars.mds.yandex.net/i?id=b49087eed42c3abed4ebf3c828d7dab2e3fa6449-8205921-images-thumbs&n=13" width="200"><br>
+<img src="https://dl.flathub.org/media/org/pdfstitcher/pdfstitcher/593e9db5f552bdf37f34c4b3487ae365/icons/128x128@2/org.pdfstitcher.pdfstitcher.png" width="200"><br>
 
 <a href="https://mac-share-apps.github.io/.github/pdfstitcher">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
